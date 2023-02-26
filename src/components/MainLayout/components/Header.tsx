@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            Maryia Rachkouskaya&apos;s Store
+            Book Store
           </Link>
         </Typography>
 
